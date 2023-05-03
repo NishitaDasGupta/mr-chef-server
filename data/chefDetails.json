@@ -1,0 +1,510 @@
+[
+    {
+        "Chef_Picture": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1683097163~exp=1683097763~hmac=9a67f15c2134b0888d8a11e9abf82659a4bc0d8b46c30b870cc530b84add484a",
+        "Chef_Name": "Abir Khan",
+        "Chef_ID": "chef123",
+        "Chef_Description": "I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
+        "Years_of_Experience": 15,
+        "Likes": 900,
+        "Number_of_Recipes": 5,
+        "Recipes": [
+            {
+                "Recipe_ID": "recipe001",
+                "Recipe_I": "Biriyani",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai_188544-13480.jpg?w=900&t=st=1683097996~exp=1683098596~hmac=b517238c3a0e4c073e5ad655ce0a82da87a5de70b45900702ec1990a772d115d",
+                "Ingredients": [
+                    "Rice",
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Soak the rice in water for 30 minutes. 2. Cook the beef with onion, garlic, and ginger. 3. Add the rice and cook in a pressure cooker. 4. Serve hot.",
+                "Preparation_Time": "30 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.5,
+                "Likes": 100
+            },
+            {
+                "Recipe_ID": "recipe002",
+                "Recipe_Name": "Fish Curry",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?size=626&ext=jpg&ga=GA1.2.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Fish",
+                    "Tomato",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Fry the fish in oil. 2. Cook the onion, garlic, and ginger until soft. 3. Add the tomato and cook until soft. 4. Add the fish and cook for a few minutes. 5. Serve hot.",
+                "Preparation_Time": "20 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.2,
+                "Likes": 80
+            },
+            {
+                "Recipe_ID": "recipe003",
+                "Recipe_Name": "Porota",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/aloo-paratha-gobi-paratha-also-known-as-potato-cauliflower-stuffed-flatbread-dish-originating-from-indian-subcontinent_466689-76164.jpg?w=360&t=st=1683098105~exp=1683098705~hmac=ac63446e6e67e222f67fd9f0d63293d239d2e15e521adbfb433a5042322b41ea",
+                "Ingredients": [
+                    "Flour",
+                    "Water",
+                    "Sugar",
+                    "Salt",
+                    "Oil"
+                ],
+                "Recipe_Details": "1. Mix the flour, water, and salt to make a dough. 2. Divide the dough into small balls. 3. Roll out the balls into thin circles. 4. Cook the circles on a hot griddle. 5. Brush with oil. 6. Serve hot.",
+                "Preparation_Time": "10 minutes",
+                "Cooking_Time": "10 minutes",
+                "Ratings": 4.3,
+                "Likes": 75
+            },
+            {
+                "Recipe_ID": "recipe004",
+                "Recipe_Name": "Dal",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.2.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Lentil",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Cumin"
+                ],
+                "Recipe_Details": "1. Boil the lentils with onion, garlic, ginger, and cumin. 2. Cook until the lentils are soft. 3. Serve hot.",
+                "Preparation_Time": "5 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.1,
+                "Likes": 70
+            },
+            {
+                "Recipe_ID": "recipe005",
+                "Recipe_Name": "Shrimp Fry",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/fried-shrimp-squid-with-spicy-sauce_1150-35480.jpg?size=626&ext=jpg&ga=GA1.2.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Shrimp",
+                    "Turmeric",
+                    "Chili Powder",
+                    "Salt",
+                    "Lemon Juice"
+                ],
+                "Recipe_Details": "1. Marinate the shrimp with turmeric, chili powder, salt, and lemon juice. 2. Fry the shrimp in oil until golden brown. 3. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "10 minutes",
+                "Ratings": 4.4,
+                "Likes": 90
+            }
+        ]
+    },
+    {
+        "Chef_Picture": "https://img.freepik.com/premium-psd/young-hipster-man-with-his-arms-crossed_1368-25112.jpg?w=740",
+        "Chef_Name": "Tareq Ahmed",
+        "Chef_ID": "chef321",
+        "Chef_Description": "I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
+        "Years_of_Experience": 25,
+        "Likes": 500,
+        "Number_of_Recipes": 5,
+        "Recipes": [
+            {
+                "Recipe_ID": "recipe006",
+                "Recipe_Name": "Beef Curry",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683097745~exp=1683098345~hmac=12262b726c8f13cc68948d697f1f0eafc9de02df494a1bd5ec5dfaafaf15ea70",
+                "Ingredients": [
+                    "Beef",
+                    "Potato",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Cook the beef with onion, garlic, and ginger. 2. Add the potato and cook until soft. 3. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.0,
+                "Likes": 70
+            },
+            {
+                "Recipe_ID": "recipe007",
+                "Recipe_Name": "Vegetable Curry",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/meat-dish-with-vegetables_144627-18109.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Carrot",
+                    "Potato",
+                    "Cauliflower",
+                    "Onion",
+                    "Garlic"
+                ],
+                "Recipe_Details": "1. Cut the vegetables into small pieces. 2. Cook the onion and garlic until soft. 3. Add the vegetables and cook until soft. 4. Serve hot.",
+                "Preparation_Time": "10 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.2,
+                "Likes": 80
+            },
+            {
+                "Recipe_ID": "recipe008",
+                "Recipe_Name": "Chicken Kebab",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/top-view-tasty-chicken-kebab-wooden-serving-board-other-stuffs-table_140725-147746.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Marinate the chicken with yogurt, onion, garlic, and ginger. 2. Skewer the chicken. 3. Grill until cooked. 4. Serve hot.",
+                "Preparation_Time": "20 minutes",
+                "Cooking_Time": "10 minutes",
+                "Ratings": 4.5,
+                "Likes": 90
+            },
+            {
+                "Recipe_ID": "recipe009",
+                "Recipe_Name": "Fish Kalia",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?size=626&ext=jpg&ga=GA1.2.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Fish",
+                    "Tomato",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Cook the fish with onion, garlic, and ginger. 2. Add the tomato and cook until soft. 3. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.3,
+                "Likes": 75
+            },
+            {
+                "Recipe_ID": "recipe010",
+                "Recipe_Name": "Semai",
+                "Recipe_Pic": "https://img.freepik.com/premium-photo/semiya-payasam-shewai-sewai-khir-seviyan-kheer-is-indian-sweet-made-with-vermicelli-milk-ghee-sugar-jaggery-raisins-nuts_466689-75520.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=sph",
+                "Ingredients": [
+                    "Vermicelli",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Almond"
+                ],
+                "Recipe_Details": "1. Roast the vermicelli in a pan until golden brown. 2. Boil the milk with sugar and cardamom. 3. Add the roasted vermicelli and cook until soft. 4. Garnish with almond. 5. Serve hot or cold.",
+                "Preparation_Time": "5 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.1,
+                "Likes": 70
+            }
+        ]
+    },
+    {
+        "Chef_Picture": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg?w=740&t=st=1683098592~exp=1683099192~hmac=91e75bcdc777b613889074c93195d6d0392dfbf9148bc7798b9a4d45e788d10a",
+        "Chef_Name": "Nishita DasGupta",
+        "Chef_ID": "chef789",
+        "Chef_Description": "I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
+        "Years_of_Experience": 4,
+        "Likes": 750,
+        "Number_of_Recipes": 4,
+        "Recipes": [
+            {
+                "Recipe_ID": "recipe013",
+                "Recipe_Name": "Chicken Roast",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/baked-chicken-tabaka-with-spices_1220-4968.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Marinate the chicken with yogurt, onion, garlic, and ginger. 2. Roast in the oven until cooked. 3. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "1 hour",
+                "Ratings": 4.5,
+                "Likes": 90
+            },
+            {
+                "Recipe_ID": "recipe014",
+                "Recipe_Name": "Prawn Masala",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/high-angle-delicious-shrimp-meal_23-2148771278.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Prawn",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomato"
+                ],
+                "Recipe_Details": "1. Cook the onion, garlic, and ginger until soft. 2. Add the tomato and cook until soft. 3. Add the prawn and cook until done. 4. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.3,
+                "Likes": 80
+            },
+            {
+                "Recipe_ID": "recipe015",
+                "Recipe_Name": "Vegetable Pakora",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/azerbaijani-traditional-kuku-table_140725-885.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Chickpea Flour",
+                    "Onion",
+                    "Potato",
+                    "Spinach",
+                    "Cilantro"
+                ],
+                "Recipe_Details": "1. Mix the chickpea flour with water to make a batter. 2. Add the onion, potato, spinach, and cilantro to the batter. 3. Fry in hot oil until golden brown. 4. Serve hot.",
+                "Preparation_Time": "10 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.1,
+                "Likes": 70
+            },
+            {
+                "Recipe_ID": "recipe016",
+                "Recipe_Name": "Biriyani",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai_188544-13480.jpg?w=900&t=st=1683097996~exp=1683098596~hmac=b517238c3a0e4c073e5ad655ce0a82da87a5de70b45900702ec1990a772d115d",
+                "Ingredients": [
+                    "Basmati Rice",
+                    "Chicken",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Cook the rice with onion, garlic, and ginger. 2. Cook the chicken separately with onion, garlic, and ginger. 3. Layer the rice and chicken in a pot. 4. Bake in the oven until heated through. 5. Serve hot.",
+                "Preparation_Time": "30 minutes",
+                "Cooking_Time": "1 hour",
+                "Ratings": 4.4,
+                "Likes": 85
+            }
+        ]
+    },
+    {
+        "Chef_Picture": "https://img.freepik.com/free-photo/friendly-smiling-woman-looking-pleased-front_176420-20779.jpg?w=740&t=st=1683098688~exp=1683099288~hmac=6512840724eba3388c10108ec05349e19a35dbaac40a3be405f1164dffc3f68b",
+        "Chef_Name": "Zara Khan",
+        "Chef_ID": "chef145",
+        "Chef_Description": "I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
+        "Years_of_Experience": 11,
+        "Likes": 1200,
+        "Number_of_Recipes": 5,
+        "Recipes": [
+            {
+                "Recipe_ID": "recipe021",
+                "Recipe_Name": "Dal",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.2.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Lentils",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Cumin"
+                ],
+                "Recipe_Details": "1. Cook the lentils with onion, garlic, ginger, and cumin until soft. 2. Serve hot.",
+                "Preparation_Time": "10 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.1,
+                "Likes": 75
+            },
+            {
+                "Recipe_ID": "recipe020",
+                "Recipe_Name": "Lamb Korma",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/roasted-grilled-beef-liver-with-onion-tomatoes-salad_2829-10732.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Lamb",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Yogurt"
+                ],
+                "Recipe_Details": "1. Cook the onion, garlic, and ginger until soft. 2. Add the lamb and cook until done. 3. Add the yogurt and cook until thick. 4. Serve hot.",
+                "Preparation_Time": "20 minutes",
+                "Cooking_Time": "45 minutes",
+                "Ratings": 4.5,
+                "Likes": 100
+            },
+            {
+                "Recipe_ID": "recipe017",
+                "Recipe_Name": "Beef Bhuna",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/tasty-pakistani-dish-top-view_23-2148825150.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomato"
+                ],
+                "Recipe_Details": "1. Cook the onion, garlic, and ginger until soft. 2. Add the tomato and cook until soft. 3. Add the beef and cook until done. 4. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.3,
+                "Likes": 90
+            },
+            {
+                "Recipe_ID": "recipe018",
+                "Recipe_Name": "Mango Chutney",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/flat-lay-organic-homemade-orange-marmalade_23-2148525208.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Mango",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Sugar"
+                ],
+                "Recipe_Details": "1. Cook the mango, onion, garlic, and ginger until soft. 2. Add the sugar and cook until thick. 3. Serve cold.",
+                "Preparation_Time": "10 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.2,
+                "Likes": 80
+            },
+            {
+                "Recipe_ID": "recipe019",
+                "Recipe_Name": "Pitha",
+                "Recipe_Pic": "https://img.freepik.com/premium-photo/bangladeshi-bhapa-pitha-steamed-rice-cake_525574-1285.jpg?size=626&ext=jpg&ga=GA1.2.1614607020.1683036746&semt=sph",
+                "Ingredients": [
+                    "Rice Flour",
+                    "Coconut",
+                    "Sugar",
+                    "Milk",
+                    "Salt"
+                ],
+                "Recipe_Details": "1. Mix the rice flour with water to make a dough. 2. Make small balls of dough and stuff with coconut and sugar. 3. Steam until cooked. 4. Serve hot.",
+                "Preparation_Time": "30 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.4,
+                "Likes": 95
+            }
+        ]
+    },
+    {
+        "Chef_Picture": "https://img.freepik.com/free-photo/chef-kitchen_23-2148006182.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+        "Chef_Name": "Zabed Ahmed",
+        "Chef_ID": "chef658",
+        "Chef_Description": "I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
+        "Years_of_Experience": 3,
+        "Likes": 300,
+        "Number_of_Recipes": 3,
+        "Recipes": [
+            {
+                "Recipe_ID": "recipe023",
+                "Recipe_Name": "Chicken Jhal Fry",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/side-view-chicken-kebab-with-red-onion-greens-dried-barberry-pita_141793-4838.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Chicken",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green Chilies"
+                ],
+                "Recipe_Details": "1. Cook the chicken until done. 2. Fry onion, garlic, ginger, and green chilies. 3. Add the cooked chicken to the mixture and stir well. 4. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.5,
+                "Likes": 100
+            },
+            {
+                "Recipe_ID": "recipe025",
+                "Recipe_Name": "Kachchi Biriyani",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Rice",
+                    "Mutton",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "Recipe_Details": "1. Marinate mutton with spices for several hours. 2. Cook the rice until half done. 3. Layer the rice and marinated mutton in a pot and cook on low heat for 45 minutes. 4. Serve hot.",
+                "Preparation_Time": "30 minutes",
+                "Cooking_Time": "1 hour and 30 minutes",
+                "Ratings": 4.7,
+                "Likes": 120
+            },
+            {
+                "Recipe_ID": "recipe026",
+                "Recipe_Name": "Shorshe Ilish",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/appetizing-salad-sardine-tomato-sauce-wooden-tray_1150-20279.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Hilsa Fish",
+                    "Mustard",
+                    "Green Chilies",
+                    "Garlic",
+                    "Turmeric"
+                ],
+                "Recipe_Details": "1. Marinate the fish with mustard paste, green chilies, garlic, and turmeric. 2. Fry the fish until golden brown. 3. Serve hot.",
+                "Preparation_Time": "20 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.4,
+                "Likes": 105
+            }
+        ]
+    },
+    {
+        "Chef_Picture": "https://img.freepik.com/free-photo/pretty-stylish-brunette-girl-wistfully-looking-camera-while-resting-city-street_574295-2205.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=sph",
+        "Chef_Name": "Tasnima Atasy",
+        "Chef_ID": "chef665",
+        "Chef_Description": "I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
+        "Years_of_Experience": 7,
+        "Likes": 780,
+        "Number_of_Recipes": 4,
+        "Recipes": [
+            {
+                "Recipe_ID": "recipe035",
+                "Recipe_Name": "Chotpoti",
+                "Recipe_Pic": "https://img.freepik.com/premium-photo/chotpoti-delicious-bengali-snack_608477-259.jpg?w=360",
+                "Ingredients": [
+                    "Chickpeas",
+                    "Potatoes",
+                    "Onion",
+                    "Green Chilies",
+                    "Tamarind"
+                ],
+                "Recipe_Details": "1. Boil the chickpeas and potatoes. 2. Fry onion, green chilies, and tamarind. 3. Mix the chickpeas and potatoes with the fried mixture. 4. Serve hot.",
+                "Preparation_Time": "20 minutes",
+                "Cooking_Time": "30 minutes",
+                "Ratings": 4.2,
+                "Likes": 90
+            },
+            {
+                "Recipe_ID": "recipe030",
+                "Recipe_Name": "Bhorta",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/green-creamy-shor-top-view_140725-356.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green Chilies"
+                ],
+                "Recipe_Details": "1. Roast the eggplant until the skin is charred. 2. Remove the skin and mash the eggplant. 3. Fry onion, garlic, ginger, and green chilies. 4. Add the mashed eggplant to the mixture and stir well. 5. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "15 minutes",
+                "Ratings": 4.2,
+                "Likes": 95
+            },
+            {
+                "Recipe_ID": "recipe029",
+                "Recipe_Name": "Chana Masala",
+                "Recipe_Pic": "https://img.freepik.com/premium-photo/mumbai-style-pav-bhaji-is-fast-food-dish-from-india-consists-thick-vegetable-curry-served-with-soft-bread-roll-served-plate_466689-2238.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Chickpeas",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomatoes"
+                ],
+                "Recipe_Details": "1. Soak the chickpeas overnight. 2. Cook the chickpeas until done. 3. Fry onion, garlic, ginger, and tomatoes. 4. Add the cooked chickpeas to the mixture and stir well. 5. Serve hot.",
+                "Preparation_Time": "10 minutes",
+                "Cooking_Time": "1 hour",
+                "Ratings": 4.3,
+                "Likes": 110
+            },
+            {
+                "Recipe_ID": "recipe040",
+                "Recipe_Name": "Aloo Posto",
+                "Recipe_Pic": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?size=626&ext=jpg&ga=GA1.1.1614607020.1683036746&semt=ais",
+                "Ingredients": [
+                    "Potatoes",
+                    "Poppy Seeds",
+                    "Green Chilies",
+                    "Mustard Oil",
+                    "Salt"
+                ],
+                "Recipe_Details": "1. Cut potatoes into small cubes. 2. Fry the potatoes until golden brown. 3. Make a paste of poppy seeds, green chilies, and salt. 4. Add the paste to the fried potatoes and stir well. 5. Serve hot.",
+                "Preparation_Time": "15 minutes",
+                "Cooking_Time": "20 minutes",
+                "Ratings": 4.2,
+                "Likes": 90
+            }
+        ]
+    }
+]
