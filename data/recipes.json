@@ -1,7 +1,7 @@
 [
     {
         "Recipe_ID": "recipe001",
-        "Recipe_I": "Biriyani",
+        "Recipe_Name": "Biriyani",
         "Recipe_Pic": "https://img.freepik.com/free-photo/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai_188544-13480.jpg?w=900&t=st=1683097996~exp=1683098596~hmac=b517238c3a0e4c073e5ad655ce0a82da87a5de70b45900702ec1990a772d115d",
         "Ingredients": [
             "Rice",
